@@ -1,0 +1,41 @@
+﻿USE QUANLYSV
+GO
+
+
+
+-- Bổ sung các trường trong bảng SINH_VIEN lần 2
+ALTER TABLE SINH_VIEN
+ADD trang_thai_hoc NVARCHAR(30)
+GO
+
+ALTER TABLE SINH_VIEN
+ADD khoa_hoc_sv NVARCHAR(20)
+GO
+
+
+ALTER TABLE SINH_VIEN
+ADD cong_tac_doan NVARCHAR(30)
+GO
+ 
+
+ALTER TABLE SINH_VIEN
+ADD co_so NVARCHAR(25)
+GO
+
+
+ALTER TABLE SINH_VIEN
+ADD doi_tuong_sv NVARCHAR(25)
+GO
+
+
+ALTER TABLE SINH_VIEN
+ADD dien_chinh_sach_sv NVARCHAR(25)
+GO
+
+ALTER TABLE SINH_VIEN
+ADD ngay_vao_doan_sv DATE
+GO
+
+ALTER TABLE SINH_VIEN
+ADD ngay_vao_dang_sv DATE
+GO
