@@ -1,4 +1,4 @@
-- Tên Phần mềm:  Phần mềm quản lý sinh viên(Thông tin, điểm, môn học, ...).
+- Tên Phần mềm:  Phần mềm quản lý tài sản(Tài chính, tài sản, thống kê tài sản, ...).
 - User: Admin, Sinh viên.
 - Nền tảng:
 	+ AppDesk(Winform.net C#): Đang phát triển.
@@ -10,6 +10,4 @@
 
 - Tác giả:
 	+ Nguyễn Hiệp Lộc (Leader)
-	+ Trần Văn Định(DL)
 	+ Vũ Hồng Khiêm(M)
-	+ Nguyễn Xuân Tuân(M)
