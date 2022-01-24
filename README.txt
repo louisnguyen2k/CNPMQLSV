@@ -10,4 +10,3 @@
 
 - Tác giả:
 	+ Nguyễn Hiệp Lộc (Leader)
-	+ Vũ Hồng Khiêm(M)
